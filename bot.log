@@ -8037,3 +8037,589 @@ connector: <aiohttp.connector.TCPConnector object at 0x00000204D023A2A0>
 2026-06-01 11:58:14,690 [WARNING] ngrok жоқ — polling режимінде іске қосылды
 2026-06-01 11:58:15,253 [INFO] Start polling
 2026-06-01 11:58:15,449 [INFO] Run polling for bot @tonyanontibot id=8936780677 - 'tonya'
+2026-06-01 13:27:44,750 [INFO] {"event": "PostgreSQL-\u0433\u0435 \u049b\u043e\u0441\u044b\u043b\u0434\u044b", "level": "info", "logger": "services.storage", "timestamp": "2026-06-01T08:27:44.750188Z"}
+2026-06-01 13:27:44,902 [INFO] ngrok URL алынуда...
+2026-06-01 13:27:51,044 [ERROR] ngrok URL алу қатесі: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>
+2026-06-01 13:27:51,045 [WARNING] ngrok жоқ — polling режимінде іске қосылды
+2026-06-01 13:27:52,029 [INFO] Start polling
+2026-06-01 13:27:52,177 [INFO] Run polling for bot @tonyanontibot id=8936780677 - 'tonya'
+2026-06-01 13:31:08,483 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-06-01 13:31:08,483 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8936780677)
+2026-06-01 13:31:25,954 [INFO] Connection established (tryings = 1, bot id = 8936780677)
+2026-06-01 13:46:15,259 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-06-01 13:46:15,260 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8936780677)
+2026-06-01 13:46:16,274 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:16,274 [WARNING] Sleep for 1.325095 seconds and try again... (tryings = 1, bot id = 8936780677)
+2026-06-01 13:46:17,614 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:17,614 [WARNING] Sleep for 1.618081 seconds and try again... (tryings = 2, bot id = 8936780677)
+2026-06-01 13:46:19,238 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:19,238 [WARNING] Sleep for 1.990639 seconds and try again... (tryings = 3, bot id = 8936780677)
+2026-06-01 13:46:21,233 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:21,233 [WARNING] Sleep for 2.677594 seconds and try again... (tryings = 4, bot id = 8936780677)
+2026-06-01 13:46:23,913 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:23,913 [WARNING] Sleep for 3.476379 seconds and try again... (tryings = 5, bot id = 8936780677)
+2026-06-01 13:46:27,408 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:27,409 [WARNING] Sleep for 4.539035 seconds and try again... (tryings = 6, bot id = 8936780677)
+2026-06-01 13:46:31,959 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:31,959 [WARNING] Sleep for 5.120175 seconds and try again... (tryings = 7, bot id = 8936780677)
+2026-06-01 13:46:37,090 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:37,090 [WARNING] Sleep for 4.930947 seconds and try again... (tryings = 8, bot id = 8936780677)
+2026-06-01 13:46:42,031 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:42,031 [WARNING] Sleep for 4.924944 seconds and try again... (tryings = 9, bot id = 8936780677)
+2026-06-01 13:46:46,962 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:46,962 [WARNING] Sleep for 5.107189 seconds and try again... (tryings = 10, bot id = 8936780677)
+2026-06-01 13:46:52,085 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:52,085 [WARNING] Sleep for 4.923458 seconds and try again... (tryings = 11, bot id = 8936780677)
+2026-06-01 13:46:57,012 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:46:57,012 [WARNING] Sleep for 4.926341 seconds and try again... (tryings = 12, bot id = 8936780677)
+2026-06-01 13:47:01,943 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:01,943 [WARNING] Sleep for 4.918428 seconds and try again... (tryings = 13, bot id = 8936780677)
+2026-06-01 13:47:06,878 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:06,878 [WARNING] Sleep for 5.037359 seconds and try again... (tryings = 14, bot id = 8936780677)
+2026-06-01 13:47:11,930 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:11,930 [WARNING] Sleep for 4.967243 seconds and try again... (tryings = 15, bot id = 8936780677)
+2026-06-01 13:47:16,904 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:16,904 [WARNING] Sleep for 4.965466 seconds and try again... (tryings = 16, bot id = 8936780677)
+2026-06-01 13:47:21,882 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:21,882 [WARNING] Sleep for 5.002196 seconds and try again... (tryings = 17, bot id = 8936780677)
+2026-06-01 13:47:26,901 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:26,901 [WARNING] Sleep for 4.923859 seconds and try again... (tryings = 18, bot id = 8936780677)
+2026-06-01 13:47:31,838 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:31,838 [WARNING] Sleep for 4.999096 seconds and try again... (tryings = 19, bot id = 8936780677)
+2026-06-01 13:47:36,850 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:36,851 [WARNING] Sleep for 4.982831 seconds and try again... (tryings = 20, bot id = 8936780677)
+2026-06-01 13:47:41,836 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:41,836 [WARNING] Sleep for 4.863363 seconds and try again... (tryings = 21, bot id = 8936780677)
+2026-06-01 13:47:46,712 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:46,712 [WARNING] Sleep for 4.955881 seconds and try again... (tryings = 22, bot id = 8936780677)
+2026-06-01 13:47:51,682 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:51,682 [WARNING] Sleep for 5.068896 seconds and try again... (tryings = 23, bot id = 8936780677)
+2026-06-01 13:47:56,753 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:47:56,753 [WARNING] Sleep for 4.934856 seconds and try again... (tryings = 24, bot id = 8936780677)
+2026-06-01 13:48:01,702 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:01,702 [WARNING] Sleep for 4.941925 seconds and try again... (tryings = 25, bot id = 8936780677)
+2026-06-01 13:48:06,653 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:06,653 [WARNING] Sleep for 5.095243 seconds and try again... (tryings = 26, bot id = 8936780677)
+2026-06-01 13:48:11,752 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:11,752 [WARNING] Sleep for 4.949931 seconds and try again... (tryings = 27, bot id = 8936780677)
+2026-06-01 13:48:16,710 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:16,710 [WARNING] Sleep for 4.993594 seconds and try again... (tryings = 28, bot id = 8936780677)
+2026-06-01 13:48:21,720 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:21,721 [WARNING] Sleep for 5.020789 seconds and try again... (tryings = 29, bot id = 8936780677)
+2026-06-01 13:48:26,756 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:26,756 [WARNING] Sleep for 4.959091 seconds and try again... (tryings = 30, bot id = 8936780677)
+2026-06-01 13:48:31,724 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:31,724 [WARNING] Sleep for 4.850637 seconds and try again... (tryings = 31, bot id = 8936780677)
+2026-06-01 13:48:36,581 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:36,581 [WARNING] Sleep for 5.068082 seconds and try again... (tryings = 32, bot id = 8936780677)
+2026-06-01 13:48:41,659 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:41,659 [WARNING] Sleep for 5.166417 seconds and try again... (tryings = 33, bot id = 8936780677)
+2026-06-01 13:48:46,832 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:46,832 [WARNING] Sleep for 4.880533 seconds and try again... (tryings = 34, bot id = 8936780677)
+2026-06-01 13:48:51,728 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:51,728 [WARNING] Sleep for 4.943927 seconds and try again... (tryings = 35, bot id = 8936780677)
+2026-06-01 13:48:56,687 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:48:56,687 [WARNING] Sleep for 5.104487 seconds and try again... (tryings = 36, bot id = 8936780677)
+2026-06-01 13:49:01,793 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:01,793 [WARNING] Sleep for 5.025636 seconds and try again... (tryings = 37, bot id = 8936780677)
+2026-06-01 13:49:06,831 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:06,831 [WARNING] Sleep for 5.034800 seconds and try again... (tryings = 38, bot id = 8936780677)
+2026-06-01 13:49:11,873 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:11,873 [WARNING] Sleep for 5.035210 seconds and try again... (tryings = 39, bot id = 8936780677)
+2026-06-01 13:49:16,918 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:16,918 [WARNING] Sleep for 4.892317 seconds and try again... (tryings = 40, bot id = 8936780677)
+2026-06-01 13:49:21,827 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:21,827 [WARNING] Sleep for 5.061774 seconds and try again... (tryings = 41, bot id = 8936780677)
+2026-06-01 13:49:26,900 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:26,900 [WARNING] Sleep for 5.116551 seconds and try again... (tryings = 42, bot id = 8936780677)
+2026-06-01 13:49:32,022 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:32,022 [WARNING] Sleep for 5.039118 seconds and try again... (tryings = 43, bot id = 8936780677)
+2026-06-01 13:49:37,064 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:37,064 [WARNING] Sleep for 4.937597 seconds and try again... (tryings = 44, bot id = 8936780677)
+2026-06-01 13:49:42,005 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:42,005 [WARNING] Sleep for 5.060302 seconds and try again... (tryings = 45, bot id = 8936780677)
+2026-06-01 13:49:47,069 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:47,069 [WARNING] Sleep for 5.097368 seconds and try again... (tryings = 46, bot id = 8936780677)
+2026-06-01 13:49:52,168 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:52,168 [WARNING] Sleep for 4.969637 seconds and try again... (tryings = 47, bot id = 8936780677)
+2026-06-01 13:49:57,147 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:49:57,148 [WARNING] Sleep for 5.052427 seconds and try again... (tryings = 48, bot id = 8936780677)
+2026-06-01 13:50:02,209 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:02,209 [WARNING] Sleep for 5.009688 seconds and try again... (tryings = 49, bot id = 8936780677)
+2026-06-01 13:50:07,228 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:07,228 [WARNING] Sleep for 4.924324 seconds and try again... (tryings = 50, bot id = 8936780677)
+2026-06-01 13:50:12,164 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:12,164 [WARNING] Sleep for 4.727644 seconds and try again... (tryings = 51, bot id = 8936780677)
+2026-06-01 13:50:16,896 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:16,896 [WARNING] Sleep for 5.107075 seconds and try again... (tryings = 52, bot id = 8936780677)
+2026-06-01 13:50:22,019 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:22,019 [WARNING] Sleep for 4.846307 seconds and try again... (tryings = 53, bot id = 8936780677)
+2026-06-01 13:50:26,881 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:26,881 [WARNING] Sleep for 4.889162 seconds and try again... (tryings = 54, bot id = 8936780677)
+2026-06-01 13:50:31,780 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:31,780 [WARNING] Sleep for 4.937155 seconds and try again... (tryings = 55, bot id = 8936780677)
+2026-06-01 13:50:36,723 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:36,723 [WARNING] Sleep for 5.030602 seconds and try again... (tryings = 56, bot id = 8936780677)
+2026-06-01 13:50:41,762 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:41,762 [WARNING] Sleep for 5.154744 seconds and try again... (tryings = 57, bot id = 8936780677)
+2026-06-01 13:50:46,929 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:46,929 [WARNING] Sleep for 4.877860 seconds and try again... (tryings = 58, bot id = 8936780677)
+2026-06-01 13:50:51,814 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:51,814 [WARNING] Sleep for 5.013219 seconds and try again... (tryings = 59, bot id = 8936780677)
+2026-06-01 13:50:56,835 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:50:56,836 [WARNING] Sleep for 4.879485 seconds and try again... (tryings = 60, bot id = 8936780677)
+2026-06-01 13:51:01,730 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:01,730 [WARNING] Sleep for 5.055921 seconds and try again... (tryings = 61, bot id = 8936780677)
+2026-06-01 13:51:06,797 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:06,797 [WARNING] Sleep for 4.891135 seconds and try again... (tryings = 62, bot id = 8936780677)
+2026-06-01 13:51:11,705 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:11,705 [WARNING] Sleep for 4.965431 seconds and try again... (tryings = 63, bot id = 8936780677)
+2026-06-01 13:51:16,678 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:16,678 [WARNING] Sleep for 4.980324 seconds and try again... (tryings = 64, bot id = 8936780677)
+2026-06-01 13:51:21,661 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:21,661 [WARNING] Sleep for 5.202708 seconds and try again... (tryings = 65, bot id = 8936780677)
+2026-06-01 13:51:26,872 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:26,872 [WARNING] Sleep for 4.888505 seconds and try again... (tryings = 66, bot id = 8936780677)
+2026-06-01 13:51:31,765 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:31,765 [WARNING] Sleep for 5.071752 seconds and try again... (tryings = 67, bot id = 8936780677)
+2026-06-01 13:51:36,851 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:36,851 [WARNING] Sleep for 4.841342 seconds and try again... (tryings = 68, bot id = 8936780677)
+2026-06-01 13:51:41,703 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:41,704 [WARNING] Sleep for 4.889697 seconds and try again... (tryings = 69, bot id = 8936780677)
+2026-06-01 13:51:46,601 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:46,601 [WARNING] Sleep for 4.908227 seconds and try again... (tryings = 70, bot id = 8936780677)
+2026-06-01 13:51:51,523 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:51,523 [WARNING] Sleep for 4.899266 seconds and try again... (tryings = 71, bot id = 8936780677)
+2026-06-01 13:51:56,437 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:51:56,437 [WARNING] Sleep for 4.831674 seconds and try again... (tryings = 72, bot id = 8936780677)
+2026-06-01 13:52:01,285 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:01,285 [WARNING] Sleep for 4.856248 seconds and try again... (tryings = 73, bot id = 8936780677)
+2026-06-01 13:52:06,144 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:06,144 [WARNING] Sleep for 4.925445 seconds and try again... (tryings = 74, bot id = 8936780677)
+2026-06-01 13:52:11,082 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:11,082 [WARNING] Sleep for 5.071598 seconds and try again... (tryings = 75, bot id = 8936780677)
+2026-06-01 13:52:16,158 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:16,158 [WARNING] Sleep for 4.950727 seconds and try again... (tryings = 76, bot id = 8936780677)
+2026-06-01 13:52:21,116 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:21,116 [WARNING] Sleep for 4.902437 seconds and try again... (tryings = 77, bot id = 8936780677)
+2026-06-01 13:52:26,022 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:26,022 [WARNING] Sleep for 4.891108 seconds and try again... (tryings = 78, bot id = 8936780677)
+2026-06-01 13:52:30,928 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:30,928 [WARNING] Sleep for 4.955696 seconds and try again... (tryings = 79, bot id = 8936780677)
+2026-06-01 13:52:35,894 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:35,895 [WARNING] Sleep for 5.103340 seconds and try again... (tryings = 80, bot id = 8936780677)
+2026-06-01 13:52:41,005 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:41,006 [WARNING] Sleep for 4.991700 seconds and try again... (tryings = 81, bot id = 8936780677)
+2026-06-01 13:52:46,003 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:46,003 [WARNING] Sleep for 4.900289 seconds and try again... (tryings = 82, bot id = 8936780677)
+2026-06-01 13:52:50,906 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:50,906 [WARNING] Sleep for 4.905115 seconds and try again... (tryings = 83, bot id = 8936780677)
+2026-06-01 13:52:55,822 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:52:55,822 [WARNING] Sleep for 5.055256 seconds and try again... (tryings = 84, bot id = 8936780677)
+2026-06-01 13:53:00,886 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:00,886 [WARNING] Sleep for 5.006216 seconds and try again... (tryings = 85, bot id = 8936780677)
+2026-06-01 13:53:05,909 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:05,910 [WARNING] Sleep for 5.124561 seconds and try again... (tryings = 86, bot id = 8936780677)
+2026-06-01 13:53:11,048 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:11,048 [WARNING] Sleep for 4.987659 seconds and try again... (tryings = 87, bot id = 8936780677)
+2026-06-01 13:53:16,050 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:16,050 [WARNING] Sleep for 4.856793 seconds and try again... (tryings = 88, bot id = 8936780677)
+2026-06-01 13:53:20,917 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:20,917 [WARNING] Sleep for 5.105986 seconds and try again... (tryings = 89, bot id = 8936780677)
+2026-06-01 13:53:26,037 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:26,037 [WARNING] Sleep for 5.014167 seconds and try again... (tryings = 90, bot id = 8936780677)
+2026-06-01 13:53:31,058 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:31,058 [WARNING] Sleep for 4.981040 seconds and try again... (tryings = 91, bot id = 8936780677)
+2026-06-01 13:53:36,044 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:36,044 [WARNING] Sleep for 5.025605 seconds and try again... (tryings = 92, bot id = 8936780677)
+2026-06-01 13:53:41,075 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:41,075 [WARNING] Sleep for 5.120414 seconds and try again... (tryings = 93, bot id = 8936780677)
+2026-06-01 13:53:46,199 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:46,199 [WARNING] Sleep for 4.950818 seconds and try again... (tryings = 94, bot id = 8936780677)
+2026-06-01 13:53:51,154 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:51,154 [WARNING] Sleep for 5.096964 seconds and try again... (tryings = 95, bot id = 8936780677)
+2026-06-01 13:53:56,259 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:53:56,259 [WARNING] Sleep for 4.928168 seconds and try again... (tryings = 96, bot id = 8936780677)
+2026-06-01 13:54:01,197 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:01,197 [WARNING] Sleep for 5.006255 seconds and try again... (tryings = 97, bot id = 8936780677)
+2026-06-01 13:54:06,220 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:06,220 [WARNING] Sleep for 5.082861 seconds and try again... (tryings = 98, bot id = 8936780677)
+2026-06-01 13:54:11,308 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:11,308 [WARNING] Sleep for 5.143752 seconds and try again... (tryings = 99, bot id = 8936780677)
+2026-06-01 13:54:16,466 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:16,467 [WARNING] Sleep for 5.068657 seconds and try again... (tryings = 100, bot id = 8936780677)
+2026-06-01 13:54:21,543 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:21,543 [WARNING] Sleep for 5.269007 seconds and try again... (tryings = 101, bot id = 8936780677)
+2026-06-01 13:54:26,823 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:26,824 [WARNING] Sleep for 4.974864 seconds and try again... (tryings = 102, bot id = 8936780677)
+2026-06-01 13:54:31,803 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:31,803 [WARNING] Sleep for 5.014096 seconds and try again... (tryings = 103, bot id = 8936780677)
+2026-06-01 13:54:36,832 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:36,833 [WARNING] Sleep for 4.967300 seconds and try again... (tryings = 104, bot id = 8936780677)
+2026-06-01 13:54:41,805 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:41,805 [WARNING] Sleep for 4.906511 seconds and try again... (tryings = 105, bot id = 8936780677)
+2026-06-01 13:54:46,718 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:46,718 [WARNING] Sleep for 4.936632 seconds and try again... (tryings = 106, bot id = 8936780677)
+2026-06-01 13:54:51,656 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:51,656 [WARNING] Sleep for 4.973898 seconds and try again... (tryings = 107, bot id = 8936780677)
+2026-06-01 13:54:56,646 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:54:56,646 [WARNING] Sleep for 4.935571 seconds and try again... (tryings = 108, bot id = 8936780677)
+2026-06-01 13:55:01,594 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:01,594 [WARNING] Sleep for 4.978029 seconds and try again... (tryings = 109, bot id = 8936780677)
+2026-06-01 13:55:06,583 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:06,583 [WARNING] Sleep for 5.226977 seconds and try again... (tryings = 110, bot id = 8936780677)
+2026-06-01 13:55:11,815 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:11,816 [WARNING] Sleep for 5.163183 seconds and try again... (tryings = 111, bot id = 8936780677)
+2026-06-01 13:55:16,991 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:16,991 [WARNING] Sleep for 4.952993 seconds and try again... (tryings = 112, bot id = 8936780677)
+2026-06-01 13:55:21,959 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:21,959 [WARNING] Sleep for 5.175321 seconds and try again... (tryings = 113, bot id = 8936780677)
+2026-06-01 13:55:27,146 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:27,146 [WARNING] Sleep for 5.189934 seconds and try again... (tryings = 114, bot id = 8936780677)
+2026-06-01 13:55:32,338 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:32,338 [WARNING] Sleep for 4.971352 seconds and try again... (tryings = 115, bot id = 8936780677)
+2026-06-01 13:55:37,317 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:37,317 [WARNING] Sleep for 4.977879 seconds and try again... (tryings = 116, bot id = 8936780677)
+2026-06-01 13:55:42,296 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:42,296 [WARNING] Sleep for 4.987163 seconds and try again... (tryings = 117, bot id = 8936780677)
+2026-06-01 13:55:47,293 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:47,293 [WARNING] Sleep for 5.010403 seconds and try again... (tryings = 118, bot id = 8936780677)
+2026-06-01 13:55:52,316 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:52,316 [WARNING] Sleep for 4.995519 seconds and try again... (tryings = 119, bot id = 8936780677)
+2026-06-01 13:55:57,325 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:55:57,325 [WARNING] Sleep for 5.058289 seconds and try again... (tryings = 120, bot id = 8936780677)
+2026-06-01 13:56:02,390 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:02,391 [WARNING] Sleep for 4.826062 seconds and try again... (tryings = 121, bot id = 8936780677)
+2026-06-01 13:56:07,230 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:07,230 [WARNING] Sleep for 5.107443 seconds and try again... (tryings = 122, bot id = 8936780677)
+2026-06-01 13:56:12,346 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:12,346 [WARNING] Sleep for 5.066364 seconds and try again... (tryings = 123, bot id = 8936780677)
+2026-06-01 13:56:17,425 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:17,425 [WARNING] Sleep for 5.004919 seconds and try again... (tryings = 124, bot id = 8936780677)
+2026-06-01 13:56:22,444 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:22,444 [WARNING] Sleep for 5.136278 seconds and try again... (tryings = 125, bot id = 8936780677)
+2026-06-01 13:56:27,606 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:27,606 [WARNING] Sleep for 5.012741 seconds and try again... (tryings = 126, bot id = 8936780677)
+2026-06-01 13:56:32,635 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:32,635 [WARNING] Sleep for 4.974324 seconds and try again... (tryings = 127, bot id = 8936780677)
+2026-06-01 13:56:37,618 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:37,618 [WARNING] Sleep for 4.742478 seconds and try again... (tryings = 128, bot id = 8936780677)
+2026-06-01 13:56:42,370 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:42,371 [WARNING] Sleep for 5.028877 seconds and try again... (tryings = 129, bot id = 8936780677)
+2026-06-01 13:56:47,409 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:47,409 [WARNING] Sleep for 4.972781 seconds and try again... (tryings = 130, bot id = 8936780677)
+2026-06-01 13:56:52,393 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:52,394 [WARNING] Sleep for 5.010873 seconds and try again... (tryings = 131, bot id = 8936780677)
+2026-06-01 13:56:57,421 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:56:57,421 [WARNING] Sleep for 4.888321 seconds and try again... (tryings = 132, bot id = 8936780677)
+2026-06-01 13:57:02,320 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:02,320 [WARNING] Sleep for 4.850860 seconds and try again... (tryings = 133, bot id = 8936780677)
+2026-06-01 13:57:07,185 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:07,185 [WARNING] Sleep for 4.832169 seconds and try again... (tryings = 134, bot id = 8936780677)
+2026-06-01 13:57:12,025 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:12,025 [WARNING] Sleep for 4.854315 seconds and try again... (tryings = 135, bot id = 8936780677)
+2026-06-01 13:57:16,892 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:16,892 [WARNING] Sleep for 5.103484 seconds and try again... (tryings = 136, bot id = 8936780677)
+2026-06-01 13:57:21,999 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:22,000 [WARNING] Sleep for 4.894601 seconds and try again... (tryings = 137, bot id = 8936780677)
+2026-06-01 13:57:26,899 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:26,899 [WARNING] Sleep for 5.080370 seconds and try again... (tryings = 138, bot id = 8936780677)
+2026-06-01 13:57:31,986 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:31,986 [WARNING] Sleep for 5.075414 seconds and try again... (tryings = 139, bot id = 8936780677)
+2026-06-01 13:57:37,068 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:37,068 [WARNING] Sleep for 4.888329 seconds and try again... (tryings = 140, bot id = 8936780677)
+2026-06-01 13:57:41,971 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:41,971 [WARNING] Sleep for 5.023354 seconds and try again... (tryings = 141, bot id = 8936780677)
+2026-06-01 13:57:47,006 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:47,006 [WARNING] Sleep for 4.949883 seconds and try again... (tryings = 142, bot id = 8936780677)
+2026-06-01 13:57:51,966 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:51,967 [WARNING] Sleep for 4.959388 seconds and try again... (tryings = 143, bot id = 8936780677)
+2026-06-01 13:57:56,944 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:57:56,946 [WARNING] Sleep for 5.041337 seconds and try again... (tryings = 144, bot id = 8936780677)
+2026-06-01 13:58:02,001 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:02,002 [WARNING] Sleep for 4.922866 seconds and try again... (tryings = 145, bot id = 8936780677)
+2026-06-01 13:58:06,932 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:06,933 [WARNING] Sleep for 5.046531 seconds and try again... (tryings = 146, bot id = 8936780677)
+2026-06-01 13:58:11,998 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:11,999 [WARNING] Sleep for 5.066510 seconds and try again... (tryings = 147, bot id = 8936780677)
+2026-06-01 13:58:17,086 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:17,087 [WARNING] Sleep for 5.117563 seconds and try again... (tryings = 148, bot id = 8936780677)
+2026-06-01 13:58:22,212 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:22,213 [WARNING] Sleep for 5.192814 seconds and try again... (tryings = 149, bot id = 8936780677)
+2026-06-01 13:58:27,415 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:27,415 [WARNING] Sleep for 4.942567 seconds and try again... (tryings = 150, bot id = 8936780677)
+2026-06-01 13:58:32,374 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:32,374 [WARNING] Sleep for 5.086221 seconds and try again... (tryings = 151, bot id = 8936780677)
+2026-06-01 13:58:37,469 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:37,470 [WARNING] Sleep for 4.914823 seconds and try again... (tryings = 152, bot id = 8936780677)
+2026-06-01 13:58:42,391 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:42,391 [WARNING] Sleep for 5.048180 seconds and try again... (tryings = 153, bot id = 8936780677)
+2026-06-01 13:58:47,449 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:47,450 [WARNING] Sleep for 5.015901 seconds and try again... (tryings = 154, bot id = 8936780677)
+2026-06-01 13:58:52,470 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:52,471 [WARNING] Sleep for 4.969511 seconds and try again... (tryings = 155, bot id = 8936780677)
+2026-06-01 13:58:57,447 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:58:57,448 [WARNING] Sleep for 4.908225 seconds and try again... (tryings = 156, bot id = 8936780677)
+2026-06-01 13:59:02,374 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:02,374 [WARNING] Sleep for 5.102384 seconds and try again... (tryings = 157, bot id = 8936780677)
+2026-06-01 13:59:07,494 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:07,494 [WARNING] Sleep for 5.257467 seconds and try again... (tryings = 158, bot id = 8936780677)
+2026-06-01 13:59:12,764 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:12,765 [WARNING] Sleep for 4.908053 seconds and try again... (tryings = 159, bot id = 8936780677)
+2026-06-01 13:59:17,690 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:17,690 [WARNING] Sleep for 5.044045 seconds and try again... (tryings = 160, bot id = 8936780677)
+2026-06-01 13:59:22,752 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:22,752 [WARNING] Sleep for 4.931962 seconds and try again... (tryings = 161, bot id = 8936780677)
+2026-06-01 13:59:27,692 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:27,693 [WARNING] Sleep for 4.996360 seconds and try again... (tryings = 162, bot id = 8936780677)
+2026-06-01 13:59:32,692 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:32,692 [WARNING] Sleep for 4.941751 seconds and try again... (tryings = 163, bot id = 8936780677)
+2026-06-01 13:59:37,649 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:37,649 [WARNING] Sleep for 5.046274 seconds and try again... (tryings = 164, bot id = 8936780677)
+2026-06-01 13:59:42,698 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:42,699 [WARNING] Sleep for 5.018579 seconds and try again... (tryings = 165, bot id = 8936780677)
+2026-06-01 13:59:47,726 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:47,726 [WARNING] Sleep for 4.857074 seconds and try again... (tryings = 166, bot id = 8936780677)
+2026-06-01 13:59:52,597 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:52,598 [WARNING] Sleep for 4.868122 seconds and try again... (tryings = 167, bot id = 8936780677)
+2026-06-01 13:59:57,483 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 13:59:57,483 [WARNING] Sleep for 5.035421 seconds and try again... (tryings = 168, bot id = 8936780677)
+2026-06-01 14:00:02,525 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:02,525 [WARNING] Sleep for 4.972745 seconds and try again... (tryings = 169, bot id = 8936780677)
+2026-06-01 14:00:07,506 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:07,507 [WARNING] Sleep for 4.875777 seconds and try again... (tryings = 170, bot id = 8936780677)
+2026-06-01 14:00:12,389 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:12,390 [WARNING] Sleep for 4.896116 seconds and try again... (tryings = 171, bot id = 8936780677)
+2026-06-01 14:00:17,305 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:17,305 [WARNING] Sleep for 5.027748 seconds and try again... (tryings = 172, bot id = 8936780677)
+2026-06-01 14:00:22,344 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:22,344 [WARNING] Sleep for 4.827870 seconds and try again... (tryings = 173, bot id = 8936780677)
+2026-06-01 14:00:27,177 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:27,177 [WARNING] Sleep for 4.912464 seconds and try again... (tryings = 174, bot id = 8936780677)
+2026-06-01 14:00:32,096 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:32,096 [WARNING] Sleep for 4.831874 seconds and try again... (tryings = 175, bot id = 8936780677)
+2026-06-01 14:00:36,935 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:36,936 [WARNING] Sleep for 4.982333 seconds and try again... (tryings = 176, bot id = 8936780677)
+2026-06-01 14:00:41,932 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:41,932 [WARNING] Sleep for 5.076047 seconds and try again... (tryings = 177, bot id = 8936780677)
+2026-06-01 14:00:47,024 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:47,024 [WARNING] Sleep for 5.124634 seconds and try again... (tryings = 178, bot id = 8936780677)
+2026-06-01 14:00:52,156 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:52,156 [WARNING] Sleep for 4.926673 seconds and try again... (tryings = 179, bot id = 8936780677)
+2026-06-01 14:00:57,100 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:00:57,100 [WARNING] Sleep for 5.117713 seconds and try again... (tryings = 180, bot id = 8936780677)
+2026-06-01 14:01:02,231 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:02,232 [WARNING] Sleep for 4.852678 seconds and try again... (tryings = 181, bot id = 8936780677)
+2026-06-01 14:01:07,100 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:07,101 [WARNING] Sleep for 4.823440 seconds and try again... (tryings = 182, bot id = 8936780677)
+2026-06-01 14:01:11,931 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:11,932 [WARNING] Sleep for 4.933686 seconds and try again... (tryings = 183, bot id = 8936780677)
+2026-06-01 14:01:16,873 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:16,874 [WARNING] Sleep for 4.949529 seconds and try again... (tryings = 184, bot id = 8936780677)
+2026-06-01 14:01:21,842 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:21,842 [WARNING] Sleep for 5.003732 seconds and try again... (tryings = 185, bot id = 8936780677)
+2026-06-01 14:01:26,861 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:26,861 [WARNING] Sleep for 5.086415 seconds and try again... (tryings = 186, bot id = 8936780677)
+2026-06-01 14:01:31,951 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:31,952 [WARNING] Sleep for 5.022644 seconds and try again... (tryings = 187, bot id = 8936780677)
+2026-06-01 14:01:36,990 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:36,991 [WARNING] Sleep for 4.982023 seconds and try again... (tryings = 188, bot id = 8936780677)
+2026-06-01 14:01:41,977 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:41,978 [WARNING] Sleep for 4.923592 seconds and try again... (tryings = 189, bot id = 8936780677)
+2026-06-01 14:01:46,916 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:46,916 [WARNING] Sleep for 4.963024 seconds and try again... (tryings = 190, bot id = 8936780677)
+2026-06-01 14:01:51,893 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:51,894 [WARNING] Sleep for 5.041264 seconds and try again... (tryings = 191, bot id = 8936780677)
+2026-06-01 14:01:56,950 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:01:56,950 [WARNING] Sleep for 4.989569 seconds and try again... (tryings = 192, bot id = 8936780677)
+2026-06-01 14:02:01,945 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:01,947 [WARNING] Sleep for 5.165883 seconds and try again... (tryings = 193, bot id = 8936780677)
+2026-06-01 14:02:07,122 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:07,122 [WARNING] Sleep for 5.157161 seconds and try again... (tryings = 194, bot id = 8936780677)
+2026-06-01 14:02:12,293 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:12,293 [WARNING] Sleep for 4.945569 seconds and try again... (tryings = 195, bot id = 8936780677)
+2026-06-01 14:02:17,254 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:17,254 [WARNING] Sleep for 4.916510 seconds and try again... (tryings = 196, bot id = 8936780677)
+2026-06-01 14:02:22,177 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:22,177 [WARNING] Sleep for 4.999146 seconds and try again... (tryings = 197, bot id = 8936780677)
+2026-06-01 14:02:27,183 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:27,183 [WARNING] Sleep for 4.830050 seconds and try again... (tryings = 198, bot id = 8936780677)
+2026-06-01 14:02:32,020 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:32,021 [WARNING] Sleep for 4.910112 seconds and try again... (tryings = 199, bot id = 8936780677)
+2026-06-01 14:02:36,938 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:36,939 [WARNING] Sleep for 4.928140 seconds and try again... (tryings = 200, bot id = 8936780677)
+2026-06-01 14:02:41,878 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:41,878 [WARNING] Sleep for 4.997874 seconds and try again... (tryings = 201, bot id = 8936780677)
+2026-06-01 14:02:46,887 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:46,887 [WARNING] Sleep for 5.060961 seconds and try again... (tryings = 202, bot id = 8936780677)
+2026-06-01 14:02:51,957 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:51,958 [WARNING] Sleep for 5.143870 seconds and try again... (tryings = 203, bot id = 8936780677)
+2026-06-01 14:02:57,111 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:02:57,112 [WARNING] Sleep for 5.154725 seconds and try again... (tryings = 204, bot id = 8936780677)
+2026-06-01 14:03:02,285 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:02,286 [WARNING] Sleep for 4.898358 seconds and try again... (tryings = 205, bot id = 8936780677)
+2026-06-01 14:03:07,201 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:07,201 [WARNING] Sleep for 5.148457 seconds and try again... (tryings = 206, bot id = 8936780677)
+2026-06-01 14:03:12,368 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:12,369 [WARNING] Sleep for 5.188318 seconds and try again... (tryings = 207, bot id = 8936780677)
+2026-06-01 14:03:17,573 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:17,574 [WARNING] Sleep for 4.948442 seconds and try again... (tryings = 208, bot id = 8936780677)
+2026-06-01 14:03:22,527 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:22,528 [WARNING] Sleep for 5.119117 seconds and try again... (tryings = 209, bot id = 8936780677)
+2026-06-01 14:03:27,658 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:27,658 [WARNING] Sleep for 4.970464 seconds and try again... (tryings = 210, bot id = 8936780677)
+2026-06-01 14:03:32,643 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:32,644 [WARNING] Sleep for 5.147754 seconds and try again... (tryings = 211, bot id = 8936780677)
+2026-06-01 14:03:37,810 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:37,811 [WARNING] Sleep for 4.993496 seconds and try again... (tryings = 212, bot id = 8936780677)
+2026-06-01 14:03:42,806 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:42,806 [WARNING] Sleep for 5.032768 seconds and try again... (tryings = 213, bot id = 8936780677)
+2026-06-01 14:03:47,844 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:47,844 [WARNING] Sleep for 5.197877 seconds and try again... (tryings = 214, bot id = 8936780677)
+2026-06-01 14:03:53,047 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:53,048 [WARNING] Sleep for 5.159307 seconds and try again... (tryings = 215, bot id = 8936780677)
+2026-06-01 14:03:58,223 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:03:58,224 [WARNING] Sleep for 4.836409 seconds and try again... (tryings = 216, bot id = 8936780677)
+2026-06-01 14:04:03,074 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:03,075 [WARNING] Sleep for 5.040448 seconds and try again... (tryings = 217, bot id = 8936780677)
+2026-06-01 14:04:08,121 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:08,121 [WARNING] Sleep for 5.008271 seconds and try again... (tryings = 218, bot id = 8936780677)
+2026-06-01 14:04:13,139 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:13,139 [WARNING] Sleep for 5.001454 seconds and try again... (tryings = 219, bot id = 8936780677)
+2026-06-01 14:04:18,149 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:18,149 [WARNING] Sleep for 4.979056 seconds and try again... (tryings = 220, bot id = 8936780677)
+2026-06-01 14:04:23,137 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:23,137 [WARNING] Sleep for 5.017967 seconds and try again... (tryings = 221, bot id = 8936780677)
+2026-06-01 14:04:28,160 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:28,160 [WARNING] Sleep for 4.893812 seconds and try again... (tryings = 222, bot id = 8936780677)
+2026-06-01 14:04:33,060 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:33,060 [WARNING] Sleep for 5.155625 seconds and try again... (tryings = 223, bot id = 8936780677)
+2026-06-01 14:04:38,224 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:38,225 [WARNING] Sleep for 4.906937 seconds and try again... (tryings = 224, bot id = 8936780677)
+2026-06-01 14:04:43,145 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:43,145 [WARNING] Sleep for 4.940303 seconds and try again... (tryings = 225, bot id = 8936780677)
+2026-06-01 14:04:48,092 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:48,093 [WARNING] Sleep for 4.953544 seconds and try again... (tryings = 226, bot id = 8936780677)
+2026-06-01 14:04:53,062 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:53,063 [WARNING] Sleep for 4.871779 seconds and try again... (tryings = 227, bot id = 8936780677)
+2026-06-01 14:04:57,943 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:04:57,944 [WARNING] Sleep for 4.987326 seconds and try again... (tryings = 228, bot id = 8936780677)
+2026-06-01 14:05:02,940 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:02,940 [WARNING] Sleep for 4.953616 seconds and try again... (tryings = 229, bot id = 8936780677)
+2026-06-01 14:05:07,912 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:07,913 [WARNING] Sleep for 4.982288 seconds and try again... (tryings = 230, bot id = 8936780677)
+2026-06-01 14:05:12,900 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:12,901 [WARNING] Sleep for 5.033043 seconds and try again... (tryings = 231, bot id = 8936780677)
+2026-06-01 14:05:17,949 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:17,950 [WARNING] Sleep for 4.966451 seconds and try again... (tryings = 232, bot id = 8936780677)
+2026-06-01 14:05:22,927 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:22,928 [WARNING] Sleep for 5.036471 seconds and try again... (tryings = 233, bot id = 8936780677)
+2026-06-01 14:05:27,972 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:27,972 [WARNING] Sleep for 5.039927 seconds and try again... (tryings = 234, bot id = 8936780677)
+2026-06-01 14:05:33,028 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:33,029 [WARNING] Sleep for 4.933942 seconds and try again... (tryings = 235, bot id = 8936780677)
+2026-06-01 14:05:37,974 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:37,975 [WARNING] Sleep for 5.047665 seconds and try again... (tryings = 236, bot id = 8936780677)
+2026-06-01 14:05:43,028 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:43,028 [WARNING] Sleep for 5.217155 seconds and try again... (tryings = 237, bot id = 8936780677)
+2026-06-01 14:05:48,260 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:48,261 [WARNING] Sleep for 5.208732 seconds and try again... (tryings = 238, bot id = 8936780677)
+2026-06-01 14:05:53,476 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:53,477 [WARNING] Sleep for 5.083409 seconds and try again... (tryings = 239, bot id = 8936780677)
+2026-06-01 14:05:58,581 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:05:58,581 [WARNING] Sleep for 5.002291 seconds and try again... (tryings = 240, bot id = 8936780677)
+2026-06-01 14:06:03,598 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:03,598 [WARNING] Sleep for 4.908346 seconds and try again... (tryings = 241, bot id = 8936780677)
+2026-06-01 14:06:08,516 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:08,516 [WARNING] Sleep for 4.906034 seconds and try again... (tryings = 242, bot id = 8936780677)
+2026-06-01 14:06:13,432 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:13,432 [WARNING] Sleep for 5.041140 seconds and try again... (tryings = 243, bot id = 8936780677)
+2026-06-01 14:06:18,482 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:18,482 [WARNING] Sleep for 4.857255 seconds and try again... (tryings = 244, bot id = 8936780677)
+2026-06-01 14:06:23,342 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:23,343 [WARNING] Sleep for 4.922544 seconds and try again... (tryings = 245, bot id = 8936780677)
+2026-06-01 14:06:28,273 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:28,274 [WARNING] Sleep for 4.933330 seconds and try again... (tryings = 246, bot id = 8936780677)
+2026-06-01 14:06:33,221 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:33,222 [WARNING] Sleep for 4.870715 seconds and try again... (tryings = 247, bot id = 8936780677)
+2026-06-01 14:06:38,111 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:38,111 [WARNING] Sleep for 4.854852 seconds and try again... (tryings = 248, bot id = 8936780677)
+2026-06-01 14:06:42,969 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:42,969 [WARNING] Sleep for 4.903447 seconds and try again... (tryings = 249, bot id = 8936780677)
+2026-06-01 14:06:47,882 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:47,883 [WARNING] Sleep for 5.096811 seconds and try again... (tryings = 250, bot id = 8936780677)
+2026-06-01 14:06:52,996 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:52,997 [WARNING] Sleep for 4.972692 seconds and try again... (tryings = 251, bot id = 8936780677)
+2026-06-01 14:06:58,728 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:06:58,728 [WARNING] Sleep for 5.215491 seconds and try again... (tryings = 252, bot id = 8936780677)
+2026-06-01 14:07:03,961 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:03,961 [WARNING] Sleep for 4.900571 seconds and try again... (tryings = 253, bot id = 8936780677)
+2026-06-01 14:07:08,880 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:08,881 [WARNING] Sleep for 5.085083 seconds and try again... (tryings = 254, bot id = 8936780677)
+2026-06-01 14:07:13,979 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:13,979 [WARNING] Sleep for 5.180223 seconds and try again... (tryings = 255, bot id = 8936780677)
+2026-06-01 14:07:19,177 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:19,178 [WARNING] Sleep for 4.948105 seconds and try again... (tryings = 256, bot id = 8936780677)
+2026-06-01 14:07:24,132 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:24,132 [WARNING] Sleep for 4.823250 seconds and try again... (tryings = 257, bot id = 8936780677)
+2026-06-01 14:07:28,971 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:28,971 [WARNING] Sleep for 4.879755 seconds and try again... (tryings = 258, bot id = 8936780677)
+2026-06-01 14:07:33,866 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:33,866 [WARNING] Sleep for 4.896995 seconds and try again... (tryings = 259, bot id = 8936780677)
+2026-06-01 14:07:38,771 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:38,771 [WARNING] Sleep for 4.930028 seconds and try again... (tryings = 260, bot id = 8936780677)
+2026-06-01 14:07:43,720 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:43,721 [WARNING] Sleep for 5.086085 seconds and try again... (tryings = 261, bot id = 8936780677)
+2026-06-01 14:07:48,825 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:48,825 [WARNING] Sleep for 5.173750 seconds and try again... (tryings = 262, bot id = 8936780677)
+2026-06-01 14:07:54,010 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:54,010 [WARNING] Sleep for 5.120728 seconds and try again... (tryings = 263, bot id = 8936780677)
+2026-06-01 14:07:59,148 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 14:07:59,148 [WARNING] Sleep for 4.941456 seconds and try again... (tryings = 264, bot id = 8936780677)
+2026-06-01 14:37:47,572 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:37:47,611 [WARNING] Sleep for 5.225317 seconds and try again... (tryings = 265, bot id = 8936780677)
+2026-06-01 14:38:29,210 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:29,211 [WARNING] Sleep for 4.894898 seconds and try again... (tryings = 266, bot id = 8936780677)
+2026-06-01 14:38:34,116 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:34,117 [WARNING] Sleep for 4.944664 seconds and try again... (tryings = 267, bot id = 8936780677)
+2026-06-01 14:38:39,073 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:39,074 [WARNING] Sleep for 5.016695 seconds and try again... (tryings = 268, bot id = 8936780677)
+2026-06-01 14:38:44,098 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:44,098 [WARNING] Sleep for 4.882010 seconds and try again... (tryings = 269, bot id = 8936780677)
+2026-06-01 14:38:48,987 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:48,987 [WARNING] Sleep for 4.995292 seconds and try again... (tryings = 270, bot id = 8936780677)
+2026-06-01 14:38:53,991 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:53,994 [WARNING] Sleep for 5.046874 seconds and try again... (tryings = 271, bot id = 8936780677)
+2026-06-01 14:38:59,055 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-06-01 14:38:59,056 [WARNING] Sleep for 4.983871 seconds and try again... (tryings = 272, bot id = 8936780677)
+2026-06-01 14:40:02,351 [INFO] Connection established (tryings = 273, bot id = 8936780677)
+2026-06-01 16:08:29,885 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-06-01 16:08:29,899 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8936780677)
+2026-06-01 16:08:30,925 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:30,926 [WARNING] Sleep for 1.127643 seconds and try again... (tryings = 1, bot id = 8936780677)
+2026-06-01 16:08:32,066 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:32,067 [WARNING] Sleep for 1.500973 seconds and try again... (tryings = 2, bot id = 8936780677)
+2026-06-01 16:08:33,585 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:33,585 [WARNING] Sleep for 1.788615 seconds and try again... (tryings = 3, bot id = 8936780677)
+2026-06-01 16:08:35,392 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:35,392 [WARNING] Sleep for 2.372535 seconds and try again... (tryings = 4, bot id = 8936780677)
+2026-06-01 16:08:37,780 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:37,781 [WARNING] Sleep for 3.023106 seconds and try again... (tryings = 5, bot id = 8936780677)
+2026-06-01 16:08:40,813 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:40,813 [WARNING] Sleep for 3.984086 seconds and try again... (tryings = 6, bot id = 8936780677)
+2026-06-01 16:08:44,810 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:44,811 [WARNING] Sleep for 4.895876 seconds and try again... (tryings = 7, bot id = 8936780677)
+2026-06-01 16:08:49,713 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:49,714 [WARNING] Sleep for 4.936966 seconds and try again... (tryings = 8, bot id = 8936780677)
+2026-06-01 16:08:54,662 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-06-01 16:08:54,663 [WARNING] Sleep for 5.157553 seconds and try again... (tryings = 9, bot id = 8936780677)
+2026-06-01 16:09:20,882 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows, [WinError 121] Превышен таймаут семафора]
+2026-06-01 16:09:20,886 [WARNING] Sleep for 5.250878 seconds and try again... (tryings = 10, bot id = 8936780677)
+2026-06-01 16:10:05,056 [INFO] Connection established (tryings = 11, bot id = 8936780677)
+2026-06-01 16:11:15,267 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-06-01 16:11:15,268 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8936780677)
+2026-06-01 16:11:37,564 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-06-01 16:11:37,565 [WARNING] Sleep for 1.386138 seconds and try again... (tryings = 1, bot id = 8936780677)
+2026-06-01 16:12:00,250 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-06-01 16:12:00,251 [WARNING] Sleep for 1.845411 seconds and try again... (tryings = 2, bot id = 8936780677)
+2026-06-01 16:12:28,032 [INFO] Connection established (tryings = 3, bot id = 8936780677)

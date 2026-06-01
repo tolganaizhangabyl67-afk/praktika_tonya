@@ -1,5 +1,6 @@
-﻿from pydantic_settings import BaseSettings
- 
+﻿from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
 class Settings(BaseSettings):
     BOT_TOKEN: str
     GROQ_API_KEY: str
@@ -12,12 +13,14 @@ class Settings(BaseSettings):
     DB_USER: str = "postgres"
     TAVILY_API_KEY: str = ""
     REPLICATE_API_TOKEN: str = ""
- 
-    class Config:
-        env_file = ".env"
-        env_file_encoding = "utf-8"
-        extra = "ignore"
- 
+
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore"
+    )
+
+
 settings = Settings()
 BOT_TOKEN = settings.BOT_TOKEN
 GROQ_API_KEY = settings.GROQ_API_KEY
