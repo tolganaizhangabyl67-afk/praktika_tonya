@@ -1,0 +1,31 @@
+version: "3.8"
+
+services:
+  bot:
+    build: .
+    container_name: practika_bot
+    env_file:
+      - .env
+    depends_on:
+      - postgres
+    restart: unless-stopped
+    volumes:
+      - .:/app
+
+  postgres:
+    image: postgres:15
+    container_name: practika_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: postgres
+    ports:
+      - "5433:5432"
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: practika_redis
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
