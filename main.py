@@ -28,10 +28,9 @@ async def get_ngrok_url() -> str:
         return None
 
 async def main():
-    await storage.connect()
-
     bot = Bot(token=BOT_TOKEN)
     dp = Dispatcher()
+    dp = Dispatcher(storage=storage)
     dp.include_router(common.router)
     dp.include_router(chat.router)
 

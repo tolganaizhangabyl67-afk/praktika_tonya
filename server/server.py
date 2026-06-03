@@ -4,7 +4,6 @@ import config
 from utils.logger import get_logger
 
 logger = get_logger(__name__)
-
 # Жаһандық пул айнымалысы
 db_pool = None
 
